@@ -24,10 +24,5 @@ public class Location{
 }
 
 
-public enum DriverStatus {
-    AVAILABLE, UNAVAILABLE
-}
 
-public enum RideStatus {
-    STARTED, COMPLETED
-}
+
